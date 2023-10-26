@@ -26,7 +26,7 @@ For development & testing purposes:
 
 ## Built With
 - [Unreal Engine](https://www.unrealengine.com/en-US) - Used Engine.
-- [Blueprints]([https://www.jetbrains.com/rider/](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/)https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/) - Used built-in node-based blueprints.
+- [Blueprints](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/) - Used built-in node-based blueprints.
 
 ## Authors
 - Jake Rose - Lead Programmer & Designer
